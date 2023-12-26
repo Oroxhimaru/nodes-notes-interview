@@ -8,3 +8,6 @@ let result = arr.filter((number) => {
 console.log(result);  //5
 
 3. you can also import modules just that what you want, const fs = require('fs').writeFileSync;  then fs( filename, what you want to write); plus it is not necessary to name the const as modules name you can change too like const FY = require('fs');
+
+4. http module handle the request and response of server.
+5. 
